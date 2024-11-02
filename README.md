@@ -1,2 +1,2 @@
 # MTG Spoiler Scraper
-Magic the Gathering web scraper which notifies user when new spoilers are released
+Web scraper which notifies user when new Magic the Gathering spoilers are released
